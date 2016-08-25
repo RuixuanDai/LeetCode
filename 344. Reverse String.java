@@ -1,5 +1,6 @@
 /*
 ** 11,06,2016 first AC submission
+** using the StringBuffer Class to avoid overflow. The "string" will cause overflow 
 */
 public class Solution {
     public String reverseString(String s) {
